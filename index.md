@@ -2,7 +2,9 @@
 
 ## Hello World
 
-
+```python
+print('Hello world')
+```
 
 
 added text showing use of different headers 

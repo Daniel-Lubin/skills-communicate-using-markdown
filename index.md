@@ -13,3 +13,6 @@ added text showing use of different headers
 
 
 
+- [X] Wash the dishes
+- [ ] Take out the trash
+- [X] Feed the dog
